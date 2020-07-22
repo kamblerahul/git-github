@@ -1,1 +1,2 @@
-branch 1 first file
+branch 1 first file.
+the file is modified now
