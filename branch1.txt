@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is the code for the first file
+=======
+branch 1 first file.
+the file is modified now
+>>>>>>> master
