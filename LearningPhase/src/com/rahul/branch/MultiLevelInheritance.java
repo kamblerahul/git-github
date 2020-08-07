@@ -1,4 +1,4 @@
-package com.LearningPhase;
+package com.rahul.branch;
 
 class vehicle 
 {
@@ -24,14 +24,13 @@ class Car extends BMW
 	}
 }
 
-public class ExplicitCobversion 
-{
+public class MultiLevelInheritance {
 
 	public static void main(String[] args) 
 	{
 		Car c = new Car();
 		c.brand();
-		c.whichCar();
+		
 	}
 
 }
